@@ -10,6 +10,8 @@ WALSHEY MODIFICATIONS DISCORD - Join [HERE](https://discord.gg/uVuW5Am).
 
 ## Installation
 
+[Video on how to install](https://www.google.com "How to install Server Sided Sirens for FiveM")
+
 Download the resource from GitHub [here](https://github.com/Walsheyy/WMServerSirens).
 **Step 1**: Copy ‘wm-serversirens’ to your resources folder.
 **Step 2**: Open your server.cfg and write“ensure wm-serversirens” anywhere in the config.
