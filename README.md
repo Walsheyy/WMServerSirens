@@ -9,7 +9,6 @@ LONDON STUDIOS DISCORD - Join [HERE](https://discord.gg/F2zmUTD).
 WALSHEY MODIFICATIONS DISCORD - Join [HERE](https://discord.gg/uVuW5Am).
 
 ## Installation
-[(YouTube Video Explaining Everything)](https://linkgoeshere.com)
 
 Download the resource from GitHub [here](https://github.com/Walsheyy/WMServerSirens).
 **Step 1**: Copy ‘wm-serversirens’ to your resources folder.
@@ -66,3 +65,5 @@ A quick google search will reveal the full list of the alphabet for you.
 
 ## Feedback and suggestions
 We thank you for downloading this resource, we've worked extremely hard on it and we hope you enjoy using it. However, we will always be looking for feedback and suggestions in the comments below.
+
+We'd like to credit Double Doppler for his British sirens, included in the resource.
