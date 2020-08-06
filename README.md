@@ -40,7 +40,7 @@ Out of the box, this won’t work immediately with every ELS script and will req
 **Requesting the audio:**
 At the top of your ELS script, you’ll need to request the audio for the custom sirens, essentially downloading it for all clients, as these are external sounds.
 
-RequestScriptAudioBank(“DLC_WMSIRENS\\SIRENPACK_ONE”, false)
+    RequestScriptAudioBank(“DLC_WMSIRENS\\SIRENPACK_ONE”, false)
 
 If you’ve only made changes to the first siren pack, you’ll only need to include the first one.
 
